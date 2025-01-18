@@ -27,7 +27,7 @@ Computer Science -
 * YouTube - Intro to Markdown https://youtu.be/f49LJV1i-_w?si=g-9rJfcgAaHrIaqO
 
 ## Python
-* Udemy - 100 Days of Python
+* Udemy - 100 Days of Python https://samaritanspurse.udemy.com/course/100-days-of-code/
 * Exercise - Use Python to parse the CSV File ... use google and find a suitable library. 
 * Exercise - Commit and push `git commit`... `git push` your content to this repo.
 * Exercise - Use virtualenv (venv) and handle multiple versions.
